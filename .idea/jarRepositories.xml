@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="WSGC Artifactory Dev Repository" />
+      <option name="url" value="http://artifactory.wsgc.com/artifactory/dev" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="wsgc-snapshot-repo" />
+      <option name="name" value="WSGC Snapshot Repository" />
+      <option name="url" value="https://github.wsgc.com/eCommerce-Bedrock/wsgc-rest/tree/release/wsgc-rest-client" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="snapshotrepo.wsgc.com-gradle" />
+      <option name="name" value="snapshotrepo.wsgc.com-gradle" />
+      <option name="url" value="http://snapshotrepo.wsgc.com/artifactory/gradle-dev-local" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="snapshotrepo.wsgc.com-snapshots" />
+      <option name="name" value="snapshotrepo.wsgc.com-snapshots" />
+      <option name="url" value="http://snapshotrepo.wsgc.com/artifactory/libs-snapshot" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="snapshotrepo.wsgc.com-grad" />
+      <option name="name" value="snapshotrepo.wsgc.com-grad" />
+      <option name="url" value="http://snapshotrepo.wsgc.com/artifactory/gradle-dev-local" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="snapshotrepo.wsgc.com-releases" />
+      <option name="name" value="snapshotrepo.wsgc.com-releases" />
+      <option name="url" value="http://snapshotrepo.wsgc.com/artifactory/libs-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="wsgc-rest-client" />
+      <option name="name" value="WSGC Restclient Repository" />
+      <option name="url" value="http://snapshotrepo.wsgc.com/snapshotrepo" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jcenter-snapshots" />
+      <option name="name" value="jcenter snapshots" />
+      <option name="url" value="http://snapshotrepo.wsgc.com/artifactory/oss-snapshot-local//" />
+    </remote-repository>
+  </component>
+</project>
