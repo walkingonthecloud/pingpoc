@@ -10,7 +10,7 @@
         <module name="pingpoc" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="8">
+    <bytecodeTargetLevel target="17">
       <module name="pingpoc" target="11" />
     </bytecodeTargetLevel>
   </component>

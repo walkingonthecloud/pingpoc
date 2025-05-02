@@ -1,0 +1,3 @@
+com/pilogix/pingpoc/PingPocApp.class
+com/pilogix/pingpoc/rest/PingPocController.class
+com/pilogix/pingpoc/config/SecurityConfiguration.class
